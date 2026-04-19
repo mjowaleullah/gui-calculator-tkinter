@@ -14,7 +14,7 @@ A clean, minimal GUI calculator with basic arithmetic operations.
 
 ## 🛠️ Requirements
 
-- Python 3.x
+- Python 3.10 up
 - Tkinter (comes pre-installed with Python)
 
 ## ▶️ How to Run
@@ -33,7 +33,7 @@ tkinter-calculator/
 
 ## 🧑‍💻 Author
 
-**Mjowaleullah**  
+**Mj Owaleullah**  
 GitHub: [@mjowaleullah](https://github.com/mjowaleullah)
 
 ## 📄 License
