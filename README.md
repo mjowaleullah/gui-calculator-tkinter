@@ -20,7 +20,7 @@ A clean, minimal GUI calculator with basic arithmetic operations.
 ## ▶️ How to Run
 
 ```bash
-python calculator.py
+#5 python calculator.py
 ```
 
 ## 📁 Project Structure
