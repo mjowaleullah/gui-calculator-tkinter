@@ -33,7 +33,7 @@ tkinter-calculator/
 
 ## 🧑‍💻 Author
 
-**Md. Jowaleullah**  
+**Mjowaleullah**  
 GitHub: [@mjowaleullah](https://github.com/mjowaleullah)
 
 ## 📄 License
